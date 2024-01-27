@@ -1,4 +1,4 @@
-![image](https://github.com/Ennia-Fahd/TP7_Security_Oauth2_OIDC_JWT_Keycloak/assets/92646945/2cdcc5f4-f68c-4960-abf7-f5eecf49b8b0)# Security Oauth2, OIDC, JWT, Keycloak
+# Security Oauth2, OIDC, JWT, Keycloak
 ## Partie 1 : Keycloak
 #### Lancement du serveur 
 ![Part11](https://github.com/Ennia-Fahd/TP7_Security_Oauth2_OIDC_JWT_Keycloak/assets/92646945/134872da-756e-4f45-a491-15855e1bd63d)
